@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/mustache2teamsite
+
+---
+
+
 # mustache to Teamsite©
 
 If like me you prefer to use [mustache](http://mustache.github.com) 
